@@ -1,0 +1,15 @@
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe.config
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.exe
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\bin\Debug\ConwaysGameOfLife.pdb
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csprojAssemblyReference.cache
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\MainWindow.g.cs
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\App.g.cs
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife_MarkupCompile.cache
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife_MarkupCompile.lref
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\MainWindow.baml
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.g.resources
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.Properties.Resources.resources
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.GenerateResource.cache
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.csproj.CoreCompileInputs.cache
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.exe
+C:\Users\wenneske\source\repos\ConwaysGameOfLife\ConwaysGameOfLife\obj\Debug\ConwaysGameOfLife.pdb
